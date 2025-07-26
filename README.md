@@ -1,3 +1,3 @@
 # Deep-Learning
 
-Book : Hands On Machine Learning with Scikit Learn and TensorFlow
+Book : Hands On Machine Learning with Scikit Learn and TensorFlow, Part II
